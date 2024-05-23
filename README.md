@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chiragarya67
+- 👋 Hi, I’m chirag
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js and backend
 - 💞️ I’m looking to collaborate on building interactive we applications
