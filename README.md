@@ -1,7 +1,7 @@
 - 👋 Hi, I’m chirag
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react.js and backend
-- 💞️ I’m looking to collaborate on building interactive we applications
+- 💞️ I’m looking to collaborate on building interactive web applications
 - 📫 How to reach me..
 - 😄 Pronouns: he/him
 - ⚡ skills: HTML,CSS,JS,React.js,tailwind,node.js
