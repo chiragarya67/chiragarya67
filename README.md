@@ -30,7 +30,7 @@ I'm always eager to learn and grow. Here are some of the technologies I'm curren
 Feel free to reach out to me for collaboration or just to say hi! You can contact me via:
 
 - Email: chiragarya5678@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/chirag-a-79382a302/)
+- LinkedIn: https://www.linkedin.com/in/chirag-a-79382a302/
 
 
 <!---
