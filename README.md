@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm passionate about web development and constantl
 - 😄 Pronouns: he/him
 - ⚡ Skills: HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js
 
-## Projects
-practice projects
+## Practice Projects
 
 ### todo list
 todo list using react js 
