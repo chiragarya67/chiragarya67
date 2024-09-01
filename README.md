@@ -14,9 +14,14 @@ Welcome to my GitHub profile! I'm passionate about web development and constantl
 
 ### todo list
 todo list using react js 
+Explore the live demo of the Todo list [here](https://www.linkedin.com/posts/chirag-a-79382a302_reactjs-webdevelopment-productivityapp-activity-7215982819439734784-dIQd?utm_source=share&utm_medium=member_desktop).
 
 ### weather app
 weather app using the openweatherapi 
+Explore the live demo of the Todo list [here]( https://www.linkedin.com/posts/chirag-a-79382a302_webdevelopment-weatherapp-openweatherapi-activity-7226560095332036609-nQY3?utm_source=share&utm_medium=member_desktop).
+
+### tic tak toe game
+tic tak toe game in react js
 
 ## Learning and Growth
 
