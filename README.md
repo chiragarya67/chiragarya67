@@ -20,8 +20,8 @@ Explore the live demo of the Todo list [here](https://www.linkedin.com/posts/chi
 weather app using the openweatherapi 
 Explore the live demo of the Todo list [here]( https://www.linkedin.com/posts/chirag-a-79382a302_webdevelopment-weatherapp-openweatherapi-activity-7226560095332036609-nQY3?utm_source=share&utm_medium=member_desktop).
 
-### tic tak toe game
-tic tak toe game in react js
+### tic tac toe game
+Explore the live demo of the tic tac toe game [here](https://www.linkedin.com/posts/chirag-a-79382a302_reactjs-frontenddevelopment-javascript-activity-7236242120452247552-_GgC?utm_source=share&utm_medium=member_desktop)
 
 ## Learning and Growth
 
