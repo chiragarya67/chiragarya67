@@ -1,15 +1,38 @@
 # 👋 Hi, I’m Chirag
 
-Welcome to my GitHub profile! I'm passionate about web development and constantly learning new technologies to enhance my skills.
+Welcome to my GitHub profile!  
+I’m a **full‑stack developer** passionate about building scalable, real‑time applications with clean architecture and modern frontend flows.  
 
-## About Me
 
-- 👀 I’m interested in web development and creating interactive web applications.
-- 🌱 I’m currently learning next js 
-- 💞️ I’m looking to collaborate on building interactive web applications.
-- 😄 Pronouns: he/him
-- ⚡ Skills: JavaScript, React.js, Tailwind CSS, Node.js, express.js, mongodb
+## 🚀 About Me
+- 💻 Full‑stack developer with strong backend expertise (**Node.js, Express.js, MongoDB**)  
+- 🎨 Growing frontend skills with **React, Redux, Tailwind CSS**  
+- ⚡ Experienced in building **real‑time chat apps, image upload flows, and scalable APIs**  
+- 🔍 Persistent debugger — I love finding the *why* behind every fix  
+- 🤝 Open to collaboration on impactful web projects  
 
+## 🛠️ Skills
+- **Frontend:** React.js, Redux, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, Mongoose  
+- **Realtime:** Socket.io  
+- **Other:** Git, REST APIs, Multer (file uploads)  
+
+
+## 📂 Featured Projects
+
+### 🗨️ YoChat
+A full‑stack real‑time chat application with authentication, image uploads, and scalable backend.  
+👉 [GitHub Repo](https://github.com/chiragarya67/YoChat)
+
+---
+
+### 🛒 BagBazaar
+A backend **e‑commerce web app** built with Node.js, Express, and MongoDB.  
+👉 [GitHub Repo](https://github.com/chiragarya67/BagBazaar)
+
+
+  
 ## Practice Projects
 
 ### todo list
@@ -23,12 +46,6 @@ Explore the live demo of the Todo list [here]( https://www.linkedin.com/posts/ch
 ### tic tac toe game
 Explore the live demo of the tic tac toe game [here](https://www.linkedin.com/posts/chirag-a-79382a302_reactjs-frontenddevelopment-javascript-activity-7236242120452247552-_GgC?utm_source=share&utm_medium=member_desktop)
 
-## Learning and Growth
-
-I'm always eager to learn and grow. Here are some of the technologies I'm currently exploring:
-
-- TypeScript
-- Next js
 
 ## Get in Touch
 
@@ -37,4 +54,4 @@ Feel free to reach out to me for collaboration or just to say hi! You can contac
 - Email: chiragarya5678@gmail.com
 - LinkedIn: https://www.linkedin.com/in/chirag-a-79382a302/
 
-
+Made with ❤️ by **Chirag** 
