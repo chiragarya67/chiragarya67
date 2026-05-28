@@ -127,7 +127,7 @@ const chirag = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chiragarya67&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  > 🏆 Trophies loading... keep pushing code! 💪
 </div>
 
 ---
